@@ -1,6 +1,6 @@
 interface:
   display_name: "仿真手写作业图片"
-  short_description: "根据作业要求、题目和参考奷迹生成可核验的仿真手写作业图片"
+  short_description: "根据作业要求、题目和参考字迹生成可核验的仿真手写作业图片"
   default_prompt: "Use $handwritten-homework-image to turn my assignment materials into an AI-simulated handwritten homework image."
 
 policy:
